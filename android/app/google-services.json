@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "325625073771",
+    "firebase_url": "https://delivery-app-aefd7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "delivery-app-aefd7",
+    "storage_bucket": "delivery-app-aefd7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325625073771:android:eb2e358cdcb2dec6c1a12e",
+        "android_client_info": {
+          "package_name": "com.barq.barq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325625073771-6006h2lebr1am0e72isae0jdv1meuik5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.barq.barq",
+            "certificate_hash": "b3a2bdeb8baf28ea1f10e5258cfc7b150c6253e6"
+          }
+        },
+        {
+          "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO_F9EdntGvZiHvd3RpS1El-RtyignkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325625073771-5amh14groar01shler0i8947k4gtsrsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barq.barq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325625073771:android:85d36bbdde37d664c1a12e",
+        "android_client_info": {
+          "package_name": "com.barq.captain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO_F9EdntGvZiHvd3RpS1El-RtyignkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325625073771-5amh14groar01shler0i8947k4gtsrsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barq.barq"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325625073771:android:3e844eb47a93b49cc1a12e",
+        "android_client_info": {
+          "package_name": "com.example.barq_restaurant_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO_F9EdntGvZiHvd3RpS1El-RtyignkE0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325625073771-dql1qb98d02btg5tsbrp1p3dpunj76jq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "325625073771-5amh14groar01shler0i8947k4gtsrsi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.barq.barq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
